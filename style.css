@@ -424,6 +424,28 @@ header.shadow .logo {
     }
 }
 
+@media (max-width: 475px) {
+    .post-texto {
+        font-size: 0.7rem;
+    }
+
+    .cabecalho-titulo {
+        font-size: 1.9rem;
+    }
+}
+
+@media (max-width: 452px) {
+    .cabecalho-titulo {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 428px) {
+    .cabecalho-titulo {
+        font-size: 1.6rem;
+    }
+}
+
 @media (max-width: 396px) {
     .filtro-item {
         font-size: 0.6rem;
